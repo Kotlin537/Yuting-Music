@@ -1,10 +1,9 @@
-android studio开发的美观的安卓音乐软件。本软件仅由开发者提供的安装包上传至 Github 和蓝奏云，请注意识别。 注意：源码仅供学习，请勿传播软件安装包。 本软件参考:https://github.com/Moriafly/DsoMusic
-注意：源码仅供学习，请勿传播软件安装包。
-
 - 📫 My email:zhishu202011@163.com
 
 # 声明及协议
 
+android studio开发的美观的安卓音乐软件。本软件仅由开发者提供的安装包上传至 Github 和蓝奏云，请注意识别。 注意：源码仅供学习，请勿传播软件安装包。 本软件参考:https://github.com/Moriafly/DsoMusic
+注意：源码仅供学习。
 开源链接、介绍及应用安装包未经开发者允许不接受他人的任何转发（发布到其他应用、推广网站、公众号、博客等）
 
 羽听内不提供歌曲下载，只提供在线音乐试听，请支持正版音乐。
@@ -31,7 +30,17 @@ QQ 音乐来源：自己搞的 : )
 
 # 效果展示
 
-![pic1](http://bbs.gbxh.xyz//forum.php?mod=viewthread&tid=224&aid=4&from=album&page=1&mobile=2)
+![pic1](https://uploader.shimo.im/f/DAoy9Cjo6pR5NdZo.jpg)
+
+![pic2](https://uploader.shimo.im/f/A1noM3LDghqeRgWx.jpg)
+
+![pic3](https://uploader.shimo.im/f/DdxSP2HlJVvuew3n.jpg)
+
+![pic4](https://uploader.shimo.im/f/OavyD5vPdzabiyhP.jpg)
+
+![pic5](https://uploader.shimo.im/f/1AafhXG9pUglLT82.jpg)
+
+![pic6](https://uploader.shimo.im/f/OPVR0RscJ7ZhUJOO.jpg)
 
 
 # 羽听官方
