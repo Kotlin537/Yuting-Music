@@ -31,11 +31,8 @@ QQ 音乐来源：自己搞的 : )
 
 # 效果展示
 
-![pic1](https://img-blog.csdnimg.cn/20201219112702321.gif)
+![pic1](http://bbs.gbxh.xyz//forum.php?mod=viewthread&tid=224&aid=4&from=album&page=1&mobile=2)
 
-![pic2](https://img-blog.csdnimg.cn/20201205133344447.jpg)
-
-# 博客地址
 
 # 羽听官方
 
